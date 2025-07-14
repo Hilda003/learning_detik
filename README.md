@@ -19,7 +19,7 @@ This project is a Content Management System (CMS) designed for managing the cont
 
 ## Prerequisites
 
-Pastikan Anda telah menginstal perangkat lunak berikut sebelum melanjutkan:
+Pastikan di laptop kamu terinstal:
 
 - PHP (versi yang disarankan: 8.x)
 - Composer
